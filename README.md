@@ -1,2 +1,2 @@
 # MYPRO
-MY
+My first project!
